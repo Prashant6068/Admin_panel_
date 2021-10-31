@@ -169,7 +169,7 @@ background: linear-gradient(to right, #FFFFFF, #FFEFBA);
                         <div >
                             <button type="submit" class="btn btn-dark " name="sub">Login</button>
                        
-                            <button type="submit" class="btn btn-danger " name="reg">New User</button>
+                            <button type="submit" class="btn btn-danger " name="reg"><a href="./register.php" class="text-decoration-none text-white">New user</a></button>
                         </div>
                     
                 </form>
