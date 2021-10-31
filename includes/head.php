@@ -18,5 +18,5 @@
     <!-- favicon -->
   
 
-    <title>Assignment4</title>
+    <title>Assignment</title>
 </head>
